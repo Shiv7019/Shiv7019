@@ -28,12 +28,6 @@ Computer Science student building a solid foundation in **Machine Learning and D
 
 Right now I'm working across classical ML (regression, classification, clustering, feature engineering) and deep learning with **PyTorch** (neural networks, training, optimization, computer vision) — with the goal of becoming an AI/ML engineer.
 
-```
-Idea → Research → Experiment → Model → Evaluate → Build → Ship
-```
-
----
-
 ## Tech Stack
 
 **Languages**
