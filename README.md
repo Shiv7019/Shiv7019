@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shivansh
+# Hi, I'm Shivansh 
 
 ### AI/ML Developer · Building models, not just running them
 
@@ -57,15 +57,35 @@ Idea → Research → Experiment → Model → Evaluate → Build → Ship
 
 ---
 
-## Featured Project
+## Projects
 
-### 🛒 SmartCart — Unsupervised Machine Learning
+###  Neural Networks: Classification & Regression
 
-Discovers customer segments and purchasing patterns from raw data using clustering and dimensionality reduction.
+Custom PyTorch ANNs on two tabular problems — a 7-class date fruit classifier (`34→64→64→7`) and a power-plant energy output regressor (`4→6→6→1`) — benchmarked against a PCA + Logistic Regression baseline.
+
+`Python` · `PyTorch` · `Scikit-learn` · `PCA`
+
+<a href="https://github.com/Shiv7019/neural-network-regression-classification">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+
+###  Handwritten Digit Classification — CNN vs RNN
+
+Trains and evaluates both CNN and RNN architectures on MNIST for classifying handwritten digits, comparing performance with accuracy scores and confusion matrices.
+
+`Python` · `CNN` · `RNN` · `MNIST`
+
+<a href="https://github.com/Shiv7019/Digit-Classification-using-CNN-RNN">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+
+###  SmartCart — Unsupervised Machine Learning
+
+Customer segmentation on retail data using K-Means clustering, with PCA dimensionality reduction and elbow/silhouette analysis to choose the optimal number of clusters.
 
 `Python` · `Pandas` · `Scikit-learn` · `K-Means` · `PCA` · `Matplotlib`
 
-<a href="https://github.com/Shiv7019">
+<a href="https://github.com/Shiv7019/SmartCart-Unsupervised-Machine-Learning">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
@@ -93,7 +113,7 @@ Discovers customer segments and purchasing patterns from raw data using clusteri
 <a href="https://github.com/Shiv7019">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/shivansh-mishra-476455381/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
