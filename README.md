@@ -87,20 +87,18 @@ Customer segmentation on retail data using K-Means clustering, with PCA dimensio
 
 ## GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shiv7019&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv7019&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiv7019&show_icons=true&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv7019&layout=compact&theme=dark&hide_border=true" height="180"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv7019&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub Streak"/>
+## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv7019&theme=github-compact&hide_border=true&area=true" width="90%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv7019&theme=github-dark&hide_border=true" />
+</p>
 
 ### Let's Connect
 
