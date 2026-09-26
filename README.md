@@ -59,8 +59,8 @@ My focus is on the fundamentals that make intelligent systems work — from clas
 
 <br><br>
 
-<!-- Activity graph: Note: This service can be unstable. If it's missing, just wait a few hours. -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv7019&bg_color=0d1117&color=aa9bef&line=aa9bef&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph">
+<!-- Activity graph: Replaced with ghstats.dev sparkline -->
+<img src="https://ghstats.dev/api/sparkline?username=Shiv7019&theme=rosepine&days=30&width=320&height=80&title=Last+30days" alt="Last 30 days activity sparkline">
 
 <br><br>
 
@@ -74,7 +74,3 @@ My focus is on the fundamentals that make intelligent systems work — from clas
 </div>
 
 ---
-
-<div align="center">
-<sub>Learning in public · Building to help people · @Shiv7019</sub>
-</div>
