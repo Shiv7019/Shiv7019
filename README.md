@@ -40,34 +40,11 @@ My focus is on the fundamentals that make intelligent systems work — from clas
 
 ---
 
-## Tech Stack
-
 <div align="center">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=aa9bef" alt="Python" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=aa9bef" alt="Jupyter" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=aa9bef" alt="HTML5" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=aa9bef" alt="CSS3" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=aa9bef" alt="JavaScript" height="35">
+## Stack
 
-<br><br>
-
-<!-- Deep Learning & ML -->
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=aa9bef" alt="PyTorch" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=aa9bef" alt="Hugging Face" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=aa9bef" alt="scikit-learn" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=aa9bef" alt="NumPy" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=aa9bef" alt="Pandas" height="35">
-
-<br><br>
-
-<!-- Frameworks & Tools -->
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=aa9bef" alt="FastAPI" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/Gymnasium-0d1117?style=for-the-badge&logo=openaigym&logoColor=aa9bef" alt="Gymnasium" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=aa9bef" alt="Git" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=aa9bef" alt="Linux" height="35"> &nbsp; 
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=aa9bef" alt="VS Code" height="35">
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda,jupyter,mysql,postgres,bash,latex,md,git,github,docker,vscode,linux&perline=8" alt="tech stack">
 
 </div>
 
