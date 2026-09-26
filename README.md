@@ -37,6 +37,42 @@ My focus is on the fundamentals that make intelligent systems work — from clas
 -  Open to conversations about deep learning, research directions, and student collaboration
 
 <br>
+---
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=aa9bef" alt="Python">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=aa9bef" alt="Jupyter">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=aa9bef" alt="HTML5">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=aa9bef" alt="CSS3">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=aa9bef" alt="JavaScript">
+
+<br><br>
+
+<!-- Deep Learning & ML -->
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=aa9bef" alt="PyTorch">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=aa9bef" alt="Hugging Face">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=aa9bef" alt="scikit-learn">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=aa9bef" alt="NumPy">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=aa9bef" alt="Pandas">
+
+<br><br>
+
+<!-- Frameworks & Tools -->
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=aa9bef" alt="FastAPI">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gymnasium-0d1117?style=for-the-badge&logo=openaigym&logoColor=aa9bef" alt="Gymnasium">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=aa9bef" alt="Git">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=aa9bef" alt="Linux">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=aa9bef" alt="VS Code">
+
+</div>
+
+---
 
 ---
 
