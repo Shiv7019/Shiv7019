@@ -44,21 +44,32 @@ My focus is on the fundamentals that make intelligent systems work — from clas
 
 <h2 align="center">Metrics</h2>
 
-<!-- Stats Card -->
+<!-- Row 1: Stats Card (Full Width) -->
 <img src="https://ghstats.dev/api/card?username=Shiv7019&theme=rosepine&border_radius=9" alt="GitHub Stats Card" width="480">
+<br><br>
 
-<br>
-
-<!-- Top Languages - Donut Layout -->
-<img src="https://ghstats.dev/api/langs?username=Shiv7019&theme=rosepine&layout=donut" alt="Top Languages">
-
-
-<!-- Activity Sparkline - Last 30 Days -->
-<img src="https://ghstats.dev/api/sparkline?username=Shiv7019&theme=rosepine&days=30&width=400&height=100&title=Last+30days" alt="Last 30 days activity sparkline">
+<!-- Row 2: Top Languages & Sparkline Side-by-Side -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://ghstats.dev/api/langs?username=Shiv7019&theme=rosepine&layout=donut" alt="Top Languages">
+    </td>
+    <td align="center" valign="middle">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds spacing between the two images -->
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://ghstats.dev/api/sparkline?username=Shiv7019&theme=rosepine&days=30&width=400&height=100&title=Last+30days" alt="Last 30 days activity sparkline">
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
-<!-- Contribution Snake -->
+<!-- Row 3: Streak Stats (Centered) -->
+<img src="https://streak-stats.demolab.com?user=Shiv7019&hide_border=true&background=0d1117&stroke=2a1e3f&ring=aa9bef&fire=aa9bef&currStreakLabel=aa9bef&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak stats">
+<br><br>
+
+<!-- Row 4: Contribution Snake (Centered) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiv7019/Shiv7019/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shiv7019/Shiv7019/output/github-contribution-grid-snake.svg">
