@@ -52,12 +52,6 @@ My focus is on the fundamentals that make intelligent systems work — from clas
 <!-- Top Languages - Donut Layout -->
 <img src="https://ghstats.dev/api/langs?username=Shiv7019&theme=rosepine&layout=donut" alt="Top Languages">
 
-<br><br>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Shiv7019&hide_border=true&background=0d1117&stroke=2a1e3f&ring=aa9bef&fire=aa9bef&currStreakLabel=aa9bef&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak stats">
-
-<br><br>
 
 <!-- Activity Sparkline - Last 30 Days -->
 <img src="https://ghstats.dev/api/sparkline?username=Shiv7019&theme=rosepine&days=30&width=400&height=100&title=Last+30days" alt="Last 30 days activity sparkline">
