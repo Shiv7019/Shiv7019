@@ -41,6 +41,7 @@ My focus is on the fundamentals that make intelligent systems work — from clas
 ---
 
 ## Tech Stack
+
 <div align="center">
 
 <!-- Languages -->
