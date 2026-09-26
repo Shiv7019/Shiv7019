@@ -44,27 +44,27 @@ My focus is on the fundamentals that make intelligent systems work — from clas
 
 <h2 align="center">Metrics</h2>
 
-<!-- Your new stats card -->
-<img src="https://readme-stats-github.pages.dev/api?username=Shiv7019&theme=shadow" alt="Shiv7019's GitHub Stats" width="480">
+<!-- Stats Card -->
+<img src="https://ghstats.dev/api/card?username=Shiv7019&theme=rosepine&border_radius=9" alt="GitHub Stats Card" width="480">
 
 <br>
 
-<!-- Top Languages: Now using the reliable public Vercel API -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv7019&layout=compact&theme=dark&bg_color=0d1117&title_color=aa9bef&text_color=c9d1d9" alt="most used languages" height="165">
+<!-- Top Languages - Donut Layout -->
+<img src="https://ghstats.dev/api/langs?username=Shiv7019&theme=rosepine&layout=donut" alt="Top Languages">
 
 <br><br>
 
-<!-- Streak stats -->
+<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Shiv7019&hide_border=true&background=0d1117&stroke=2a1e3f&ring=aa9bef&fire=aa9bef&currStreakLabel=aa9bef&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak stats">
 
 <br><br>
 
-<!-- Activity graph: Replaced with ghstats.dev sparkline -->
-<img src="https://ghstats.dev/api/sparkline?username=Shiv7019&theme=rosepine&days=30&width=320&height=80&title=Last+30days" alt="Last 30 days activity sparkline">
+<!-- Activity Sparkline - Last 30 Days -->
+<img src="https://ghstats.dev/api/sparkline?username=Shiv7019&theme=rosepine&days=30&width=400&height=100&title=Last+30days" alt="Last 30 days activity sparkline">
 
 <br><br>
 
-<!-- Contribution snake -->
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiv7019/Shiv7019/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shiv7019/Shiv7019/output/github-contribution-grid-snake.svg">
