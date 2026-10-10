@@ -27,7 +27,7 @@
 
 I'm **Shivansh Mishra**, an AI/ML developer working toward **autonomous research**. Currently pursuing an Integrated B.Tech–M.Tech in Computer Science & Engineering at **CSMU** (expected 2029).
 
-My focus is on the fundamentals that make intelligent systems work — from classical machine learning to the architectures that power modern deep learning. I'm building a foundation I can stand on for the long term: **neural networks, transformers, and reinforcement learning** studied from the ground up, then applied to real problems.
+I'm building a foundation I can stand on for the long term: **neural networks, transformers, and reinforcement learning** studied from the ground up, then applied to real problems.
 
 -  **Current direction:** Deep Learning, Neural Networks, and the path toward autonomous research agents
 -  **Studying:** ANN, CNN, RNN, Transformers, and reinforcement learning
