@@ -15,14 +15,8 @@
 <a href="https://www.youtube.com/@Letscodeshivansh"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=aa9bef" alt="YouTube"></a>&nbsp;&nbsp;
 <a href="mailto:shivansh7019.m@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=aa9bef" alt="Email"></a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Shiv7019&style=flat&color=aa9bef&label=profile+views" alt="profile views">
-
 </div>
-
 ---
-
 ## About
 
 I'm **Shivansh Mishra**, an AI/ML developer working toward **autonomous research**. Currently pursuing an Integrated B.Tech–M.Tech in Computer Science & Engineering at **CSMU** (expected 2029).
