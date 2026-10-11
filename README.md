@@ -16,7 +16,9 @@
 <a href="mailto:shivansh7019.m@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=aa9bef" alt="Email"></a>
 
 </div>
+
 ---
+
 ## About
 
 I'm **Shivansh Mishra**, an AI/ML developer working toward **autonomous research**. Currently pursuing an Integrated B.Tech–M.Tech in Computer Science & Engineering at **CSMU** (expected 2029).
